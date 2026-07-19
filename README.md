@@ -286,8 +286,14 @@ Global-Sales-Performance-Profitability-Insights
 
 # 👨‍💻 Author
 
-## Mahmoud Ahmed Mahmoud Bekhit
-
+**Khaled Elserry**
 **Data Analyst | Business Intelligence | Machine Learning**
+- GitHub: [KhaledElserry](https://github.com/KhaledElserry)
+- LinkedIn: [Khaled Elserry](https://www.linkedin.com/in/khaledelserry/)
+- Email: [khaledomarabdelmoneam@gmail.com](mailto:khaledomarabdelmoneam@gmail.com)
+- Phone: [+201091827693](tel:+201091827693)
+---
+
+
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
