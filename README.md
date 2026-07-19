@@ -1,244 +1,293 @@
 <div align="center">
 
-# Global Sales Performance & Profitability Insights
+# 🌍 Global Sales Performance & Profitability Insights
 
-### End-to-End Sales Analytics Project using Excel, SQL, Power BI, Tableau & Python
+### End-to-End Business Intelligence & Data Analytics Project
 
-![Excel](assets/badges/excel.svg)
-![SQL](assets/badges/sql.svg)
-![Power BI](assets/badges/power-bi.svg)
-![Tableau](assets/badges/tableau.svg)
-![Python](assets/badges/python.svg)
+From Raw Data to Business Insights using **Excel, SQL, Power BI, Tableau & Python**
+
+![Excel](Assets/badges/excel.svg)
+![SQL](Assets/badges/sql.svg)
+![Power BI](Assets/badges/power-bi.svg)
+![Tableau](Assets/badges/tableau.svg)
+![Python](Assets/badges/python.svg)
 
 </div>
 
 ---
 
-# Project Overview
+# 📖 Project Overview
 
-This project analyzes global sales performance to uncover trends in revenue, profit, customer behavior, product performance, and regional sales.
+This project presents a complete Business Intelligence workflow designed to analyze global sales performance and profitability.
 
-The project follows a complete analytics workflow starting from raw sales data through cleaning, transformation, visualization, and business insights.
+Starting from raw transactional sales data, the project applies data cleaning, SQL analysis, dashboard development, and business intelligence techniques to uncover valuable insights that support strategic decision-making.
 
----
-
-# Business Objectives
-
-The project answers questions such as:
-
-- Which products generate the highest revenue?
-- Which categories are the most profitable?
-- Which regions perform best?
-- Which customer segments generate the highest sales?
-- How do discounts affect profitability?
-- Which shipping modes are most efficient?
-- What are the monthly and yearly sales trends?
+The objective is to transform raw business data into meaningful visual analytics that help stakeholders understand revenue trends, customer behavior, regional performance, product profitability, and operational efficiency.
 
 ---
 
-# End-to-End Workflow
+# 🎯 Business Problem
+
+Organizations generate thousands of sales transactions every year, making it difficult to manually identify:
+
+- Best-selling products
+- Most profitable categories
+- High-value customers
+- Regional performance
+- Monthly sales trends
+- Impact of discounts on profitability
+- Shipping efficiency
+
+This project provides an interactive analytical solution that helps decision-makers monitor business performance and identify opportunities for growth.
+
+---
+
+# 🚀 Project Workflow
 
 ```text
-Raw Sales Data
-      ↓
+Raw Sales Dataset
+        │
+        ▼
 Excel Data Cleaning
-      ↓
-SQL Data Preparation
-      ↓
+        │
+        ▼
+SQL Data Exploration
+        │
+        ▼
+Business Analysis
+        │
+        ▼
 Power BI Dashboard
-      ↓
+        │
+        ▼
 Tableau Dashboard
-      ↓
+        │
+        ▼
 Business Insights
+        │
+        ▼
+Strategic Recommendations
 ```
 
 ---
 
-# Technology Stack
+# 🛠 Technology Stack
 
-| Stage | Tools | Tasks |
-|--------|------|-------|
-| Data Cleaning | Excel | Missing values, formatting, validation |
-| Data Preparation | SQL | Queries, KPIs, aggregations |
-| Data Analysis | Excel, SQL | Sales & Profit Analysis |
-| Visualization | Power BI, Tableau | Interactive Dashboards |
-| Reporting | GitHub | Documentation |
+| Technology | Purpose |
+|------------|---------|
+| Excel | Data Cleaning & Validation |
+| SQL | Data Exploration & KPI Analysis |
+| Power BI | Interactive Dashboard Development |
+| Tableau | Data Visualization |
+| Python | Data Processing |
+| Git & GitHub | Version Control & Documentation |
 
 ---
 
-# Dataset
+# 📂 Dataset
 
 The dataset contains information about:
 
 - Orders
 - Customers
 - Products
-- Categories
+- Product Lines
 - Sales
 - Profit
+- Quantity
 - Discounts
-- Shipping
-- Regions
+- Shipping Status
+- Deal Size
 - Countries
 - States
 - Cities
+- Order Dates
 
 ---
 
-# Excel Analysis
+# 📊 Excel Analysis
 
-The Excel stage includes:
+Excel was used for:
 
 - Data Cleaning
-- Removing duplicates
-- Handling missing values
+- Removing Duplicates
+- Handling Missing Values
+- Formatting Data
 - Pivot Tables
 - Pivot Charts
-- KPI calculations
-- Initial dashboard
-
-Excel files are available in:
-
-```text
-Excel/
-```
+- KPI Calculations
+- Initial Dashboard
 
 ---
 
-# SQL Analysis
+# 🗄 SQL Analysis
 
-SQL was used to:
+SQL was used to answer important business questions including:
 
-- Analyze Sales
-- Analyze Profit
-- Regional Performance
-- Product Performance
+- Top Selling Products
+- Most Profitable Products
+- Monthly Sales Trend
 - Customer Analysis
-- Monthly Trends
+- Country Performance
+- Product Line Analysis
+- Deal Size Analysis
+- Order Status Analysis
 - Top & Bottom Performing Products
 
-SQL files:
-
-```text
-SQL/
-```
-
 ---
 
-# Power BI Dashboard
+# 📈 Power BI Dashboard
 
-The Power BI dashboard includes:
+The Power BI dashboard provides a complete interactive business overview.
 
-- Executive Dashboard
-- Sales Overview
+## Dashboard Features
+
+- Executive KPI Cards
+- Monthly Sales Analysis
 - Profit Analysis
-- Regional Performance
-- Product Analysis
-- Customer Analysis
+- Country Performance
+- City Performance
+- Product Line Analysis
+- Order Status Distribution
+- Deal Size Analysis
 - Interactive Filters
 
-Example:
+---
 
-```
-PowerBI/
-```
+## Dashboard Preview
+
+<p align="center">
+<img src="Assets/powerbi-dashboard.png" width="100%" alt="Power BI Dashboard">
+</p>
 
 ---
 
-# Tableau Dashboard
+# 📉 Tableau Dashboard
 
-Interactive Tableau dashboards include:
+The Tableau dashboard complements the Power BI dashboard through additional interactive visualizations.
+
+Features include:
 
 - Sales Trends
-- Profit Trends
 - Geographic Analysis
 - Product Performance
 - Customer Segmentation
-
-```
-Tableau/
-```
+- Regional Performance
 
 ---
 
-# Key KPIs
+# 📌 Key Performance Indicators (KPIs)
 
-- Total Sales
-- Total Profit
-- Profit Margin
-- Average Order Value
-- Sales Growth
-- Quantity Sold
-- Top Products
-- Top Categories
-- Top Regions
-- Customer Count
+| KPI | Value |
+|------|------:|
+| Total Sales | 10M |
+| Total Profit | 2M |
+| Total Orders | 3K |
+| Quantity Sold | 99K |
+| Countries | Multiple |
+| Product Lines | 7 |
 
 ---
 
-# Business Insights
+# 📊 Business Questions Answered
 
-Some insights generated from the project include:
-
-- High sales do not always result in high profit.
-- Certain discounts significantly reduce profit margins.
-- A small number of products generate most revenue.
-- Regional performance varies considerably.
-- Customer segments contribute differently to profitability.
+- Which products generate the highest sales?
+- Which product lines are the most profitable?
+- Which countries generate the highest revenue?
+- Which cities contribute the most sales?
+- How do discounts impact profitability?
+- Which deal sizes produce the highest revenue?
+- How are orders distributed by status?
+- What are the monthly sales trends?
 
 ---
 
-# Repository Structure
+# 💡 Key Insights
+
+- Generated more than **10 Million** in total sales.
+- Achieved approximately **2 Million** in total profit.
+- The majority of orders were successfully shipped.
+- Classic Cars represented the largest product line.
+- Medium deal size generated the highest sales contribution.
+- Revenue increased significantly during the final months of the year.
+- Sales performance varies considerably across countries and cities.
+- A small number of product lines contribute a large portion of total revenue.
+
+---
+
+# 📈 Business Recommendations
+
+- Focus marketing campaigns on high-performing product lines.
+- Reduce excessive discounts that negatively affect profitability.
+- Increase inventory for top-selling products.
+- Expand operations in high-performing regions.
+- Monitor underperforming products and optimize pricing strategies.
+- Improve forecasting using historical monthly sales trends.
+
+---
+
+# 📁 Repository Structure
 
 ```text
 Global-Sales-Performance-Profitability-Insights
 
 │
-├── Excel/
-├── SQL/
-├── Power BI/
-├── Tableau/
-├── Assets/
+├── Assets
+│   ├── badges
+│   │   ├── excel.svg
+│   │   ├── sql.svg
+│   │   ├── power-bi.svg
+│   │   ├── tableau.svg
+│   │   └── python.svg
+│   │
+│   └── powerbi-dashboard.png
+│
+├── Excel
+│   ├── Raw Data.xlsx
+│   ├── Clean Data.xlsx
+│   └── Dashboard.xlsx
+│
+├── SQL
+│   ├── Data Cleaning.sql
+│   ├── Business Questions.sql
+│   ├── KPI Queries.sql
+│   └── Analysis.sql
+│
+├── Power BI
+│   └── Sales Performance Dashboard.pbix
+│
+├── Tableau
+│   └── Sales Dashboard.twbx
+│
 ├── README.md
 └── LICENSE
 ```
 
 ---
 
-# Dashboard Preview
-
-> Add screenshots here
-
-```
-assets/dashboard1.png
-
-assets/dashboard2.png
-
-assets/dashboard3.png
-```
-
----
-
-# Skills Demonstrated
+# 🎯 Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
+- SQL Query Writing
+- Data Modeling
 - Business Intelligence
-- SQL
-- Excel
+- Dashboard Design
+- KPI Development
 - Power BI
 - Tableau
-- Data Visualization
+- Excel
+- Python
 - Business Storytelling
-- KPI Design
+- Data Visualization
+- Git & GitHub
 
 ---
 
-# Author
+# 👨‍💻 Author
 
-**Khaled Elserry**
+## Mahmoud Ahmed Mahmoud Bekhit
 
-Junior Data Analyst
+**Data Analyst | Business Intelligence | Machine Learning**
 
-- LinkedIn
-- GitHub
+If you found this project useful, consider giving it a ⭐ on GitHub.
