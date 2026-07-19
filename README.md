@@ -136,6 +136,82 @@ SQL was used to answer important business questions including:
 
 ---
 
+
+# 🤖 Machine Learning Analysis
+
+Machine Learning techniques were applied to build and evaluate a predictive model based on the prepared dataset.
+
+## Workflow
+
+```text
+Data Cleaning
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+Train / Test Split
+      │
+      ▼
+Model Training
+      │
+      ▼
+Prediction
+      │
+      ▼
+Model Evaluation
+```
+
+---
+
+## Model Evaluation
+
+The model was evaluated using multiple performance metrics:
+
+| Metric | Score |
+|---------|-------:|
+| Accuracy | 95.40% |
+| Precision | 91.86% |
+| Recall | 99.65% |
+| F1 Score | 95.59% |
+
+---
+
+## Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- Classification Report
+- Actual vs Predicted Visualization
+
+---
+
+## Model Performance
+
+The model achieved excellent predictive performance with an accuracy of approximately **95%**, demonstrating strong generalization on unseen data.
+
+The confusion matrix indicates a very small number of misclassified samples, while the classification report shows consistently high Precision, Recall, and F1-Score across both classes.
+
+---
+
+## Model Visualization
+
+### Actual vs Predicted
+
+<p align="center">
+<img src="Assets/actual-vs-predicted.png" width="80%">
+</p>
+
+---
+
+### Confusion Matrix & Classification Report
+
+<p align="center">
+<img src="Assets/model-evaluation.png" width="80%">
+</p>
 # 📈 Power BI Dashboard
 
 The Power BI dashboard provides a complete interactive business overview.
