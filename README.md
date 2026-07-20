@@ -233,7 +233,7 @@ The Power BI dashboard provides a complete interactive business overview.
 ## Dashboard Preview
 
 <p align="center">
-<img src="Assets/powerbi-dashboard.png" width="100%" alt="Power BI Dashboard">
+<img src="Assets/Global Sales Dashboard.png" width="100%" alt="Power BI Dashboard">
 </p>
 
 ---
