@@ -6,12 +6,6 @@
 
 From Raw Data to Business Insights using **Excel, SQL, Power BI, Tableau & Python**
 
-![Excel](Assets/badges/excel.svg)
-![SQL](Assets/badges/sql.svg)
-![Power BI](Assets/badges/power-bi.svg)
-![Tableau](Assets/badges/tableau.svg)
-![Python](Assets/badges/python.svg)
-
 </div>
 
 ---
