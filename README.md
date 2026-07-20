@@ -232,20 +232,6 @@ The Power BI dashboard provides a complete interactive business overview.
 
 ---
 
-# 📉 Tableau Dashboard
-
-The Tableau dashboard complements the Power BI dashboard through additional interactive visualizations.
-
-Features include:
-
-- Sales Trends
-- Geographic Analysis
-- Product Performance
-- Customer Segmentation
-- Regional Performance
-
----
-
 # 📌 Key Performance Indicators (KPIs)
 
 | KPI | Value |
